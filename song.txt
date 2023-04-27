@@ -13,6 +13,7 @@ Better vacate, retreat like a vacay, mayday (ayy)
 This beat is cray-cray, Ray J, H-A-H-A-H-A
 Laughin' all the way to the bank, I spray flames
 They cannot tame or placate the (ayy)
+<<<<<<< HEAD
 
 Monster
 You get in my way? I'ma feed you to the monster (yeah)
@@ -31,3 +32,5 @@ And in the midst of all this
 I'm in a mental hospital with a crystal ball
 Tryna see, will I still be like this tomorrow?
 Risperdal, voices whisper
+=======
+>>>>>>> branch
